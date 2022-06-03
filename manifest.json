@@ -1,0 +1,23 @@
+{
+    "manifest_version": 2,
+    "name": "Captcha Killer",
+    "description": "Captcha Killer",
+    "version": "1.0",
+    "icons": {
+              "128": "ck-128.png",
+              "48": "ck-48.png",
+              "16": "ck-16.png"
+              },
+    "permissions": [
+                    "tabs", "<all_urls>", "storage"
+                   ],
+   "browser_action": {
+   "default_icon": "ck-128.png"
+                     },
+   "content_scripts": [
+                         {
+                          "matches": ["https://moodle.iitd.ac.in/login/index.php/*"],
+                          "js": ["main.js"]
+                         }
+                       ]
+    }
