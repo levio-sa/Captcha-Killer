@@ -9,4 +9,4 @@ A Captcha Killer for Moodle
 - Enjoy ;)
 
 ### Warning
-- Never share the main.js file with anyone. It contains your password.
+Never share the main.js file with anyone. It contains your password.
