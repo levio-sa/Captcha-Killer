@@ -1,4 +1,4 @@
-![Test Image 1]("https://github.com/levio-sa/Moodle-Captcha-Killer/'captcha killler circle.png'")
+![Test Image 1]("https://github.com/levio-sa/Moodle-Captcha-Killer/blob/main/ck-16.png?raw=true")
 
 # Moodle-Captcha-Killer
 A Captcha Killer for Moodle
